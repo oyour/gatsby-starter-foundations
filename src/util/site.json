@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Labour Party Secular",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Labour Party Secular belief in human rights, the right of children to education, equal opportunities for women (without discrimination), gender equality and other social issues, our ideas have moved beyond mere political appeal.",
+    "siteUrl": "https://www.labourpartysecular.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@LabourParty_S"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
