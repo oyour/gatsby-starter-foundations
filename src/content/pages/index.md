@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Labour Party Secular
+tagline: Labour Party Secular
+featuredImage: /assets/labourparty.png
 cta:
   ctaText: Know more
   ctaLink: /about
